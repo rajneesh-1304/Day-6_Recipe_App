@@ -1,0 +1,30 @@
+.register_container{
+    background-color: rgb(134, 222, 252);
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+}
+
+.register_form{
+    height: 50vh;
+    width: 25vw;
+    background-color: rgb(181, 240, 194);
+    border: 1px solid rgb(231, 231, 231);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+
+.register_heading{
+    color: rgb(79, 164, 197);
+    margin-top: 70px;
+}
+
+.register_main_form{
+    margin-top: 50px;
+}
